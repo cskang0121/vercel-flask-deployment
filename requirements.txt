@@ -1,7 +1,1 @@
 Flask==2.3.2
-Flask-Cors==3.0.10
-Flask-SQLAlchemy==3.0.5
-mysql-connector-python==8.1.0
-SQLAlchemy==2.0.20
-gensim==4.1.2
-firebase-admin==6.2.0
